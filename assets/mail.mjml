@@ -1,0 +1,16 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+    </mj-section>
+    <mj-section background-color="#f3f3f3">
+      <mj-column>
+        <mj-image width="170px" src="https://data.geoffroy-carette.com/images/firework.png"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-weight="bold" align="justify" font-size="24px" color="#000" font-family="helvetica">Bonjour {{name}}</mj-text>
+        <mj-text align="justify" font-size="15px" color="#000" font-family="helvetica">{{sender}} vous a envoyé(e) une carte de voeux. Pour la visualier cliqué sur le lien ci-dessous.</mj-text>
+        <mj-button align="justify" background-color="#8ccaca" border-radius="40px" font-family="helvetica" font-size="12px" href="https://cartedevoeux.geoffroy-carette.com/wish_card.html">Voir la carte</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

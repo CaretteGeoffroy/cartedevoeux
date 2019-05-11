@@ -1,0 +1,15 @@
+body #myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%; }
+body .container-fluid .container .row .desc {
+  margin-top: 25vh;
+  font-family: 'Pacifico', cursive;
+  font-size: 2rem;
+  color: white; }
+body .container-fluid .container .row .btn-info {
+  font-family: 'Pacifico', cursive; }
+
+/*# sourceMappingURL=style.css.map */
